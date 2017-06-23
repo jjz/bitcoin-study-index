@@ -30,4 +30,6 @@ library
 1. bcoin [https://github.com/bcoin-org/bcoin](https://github.com/bcoin-org/bcoin)
 2. Bitcore [https://github.com/bitpay/bitcore](https://github.com/bitpay/bitcore)
 
-
+## book of bitcoin
+1. 精通比特币 [http://www.zhibimo.com/read/wang-miao/mastering-bitcoin/index.html](http://www.zhibimo.com/read/wang-miao/mastering-bitcoin/index.html)
+2. Mastering Bitcoin [https://github.com/bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
