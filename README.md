@@ -15,6 +15,7 @@
 2. Bitcoin Unlimited [https://github.com/BitcoinUnlimited/BitcoinUnlimited](https://github.com/BitcoinUnlimited/BitcoinUnlimited)
 3. Bitcoin Classic [https://github.com/bitcoinclassic/bitcoinclassic](https://github.com/bitcoinclassic/bitcoinclassic)
 4. Bitcoin XT [https://github.com/bitcoinxt/bitcoinxt](https://github.com/bitcoinxt/bitcoinxt)
+5. Bitcoin abc [https://github.com/Bitcoin-ABC/bitcoin-abc](https://github.com/Bitcoin-ABC/bitcoin-abc)
 
 library
 1. libbitcoin [https://github.com/libbitcoin/libbitcoin](https://github.com/libbitcoin/libbitcoin)
@@ -24,6 +25,7 @@ library
 
 1. btcd [https://github.com/btcsuite/btcd](https://github.com/btcsuite/btcd)
 2. gocoin [https://github.com/piotrnar/gocoin](https://github.com/piotrnar/gocoin)
+3. Copernicus [https://github.com/btcboost/copernicus](https://github.com/btcboost/copernicus)
 
 ## Bitcoin source (JavaScript)
 
