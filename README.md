@@ -17,7 +17,7 @@
 4. Bitcoin XT [https://github.com/bitcoinxt/bitcoinxt](https://github.com/bitcoinxt/bitcoinxt)
 5. Bitcoin abc [https://github.com/Bitcoin-ABC/bitcoin-abc](https://github.com/Bitcoin-ABC/bitcoin-abc)
 
-library
+## library
 1. libbitcoin [https://github.com/libbitcoin/libbitcoin](https://github.com/libbitcoin/libbitcoin)
 2. bitprim [https://github.com/bitprim](https://github.com/bitprim)
 
