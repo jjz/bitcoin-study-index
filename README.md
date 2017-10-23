@@ -39,6 +39,10 @@
 ## mining
 1. [asicme](https://github.com/sumory/sumory-note)
 
+## scale bitcoin
+1. subchains[http://www.bitcoinunlimited.info/resources/subchains.pdf](http://www.bitcoinunlimited.info/resources/subchains.pdf) chinese[http://www.8btc.com/subchains-reduce-orphaning-risk](http://www.8btc.com/subchains-reduce-orphaning-risk)
+2. byzcoin [http://hackingdistributed.com/2016/08/04/byzcoin/](http://hackingdistributed.com/2016/08/04/byzcoin/)
+3. bitcoin-ng [https://arxiv.org/pdf/1510.02037.pdf](https://arxiv.org/pdf/1510.02037.pdf)
 
 
 
