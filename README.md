@@ -1,4 +1,4 @@
-# bitcoin stduy index
+# bitcoin study index
 
 ## Bitcoin white paper
 1. [English](https://bitcoin.org/bitcoin.pdf)
