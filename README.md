@@ -33,7 +33,7 @@ library
 2. Bitcore [https://github.com/bitpay/bitcore](https://github.com/bitpay/bitcore)
 
 ## book of bitcoin
-1. 精通比特币 [http://www.zhibimo.com/read/wang-miao/mastering-bitcoin/index.html](http://www.zhibimo.com/read/wang-miao/mastering-bitcoin/index.html)
+1. 精通比特币 [http://book.8btc.com/books/6/masterbitcoin2cn/_book/](http://book.8btc.com/books/6/masterbitcoin2cn/_book/)
 2. Mastering Bitcoin [https://github.com/bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
 
 ## mining
