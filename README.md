@@ -41,7 +41,13 @@ library
 
 ## Segwit Witness blog
 1. http://www.8btc.com/segregated-witness
+2. https://github.com/bitcoin/bips/blob/master/bip-0144.mediawiki
 
+## Extension block 
+1. https://github.com/jl2012/bips/blob/spoonnet/bip-extheader.mediawiki
+2. https://github.com/tothemoon-org/extension-blocks/blob/master/spec.md
+3. https://bitcointalk.org/index.php?topic=283746.0
+4. https://www.mail-archive.com/search?l=bitcoin-dev@lists.linuxfoundation.org&q=subject:%22Re%5C%3A+%5C%5Bbitcoin%5C-dev%5C%5D+Extension+block+proposal+by+Jeffrey+et+al%22&o=newest
 
 
 
