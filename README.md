@@ -39,7 +39,8 @@ library
 ## mining
 1. [asicme](https://github.com/sumory/sumory-note)
 
-
+## Segwit Witness blog
+1. http://www.8btc.com/segregated-witness
 
 
 
