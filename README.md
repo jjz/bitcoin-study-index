@@ -55,6 +55,9 @@
 2. byzcoin [http://hackingdistributed.com/2016/08/04/byzcoin/](http://hackingdistributed.com/2016/08/04/byzcoin/)
 3. bitcoin-ng [https://arxiv.org/pdf/1510.02037.pdf](https://arxiv.org/pdf/1510.02037.pdf)
 
+## stratum protocol
+1. https://slushpool.com/help/manual/stratum-protocol
+
 
 
 
